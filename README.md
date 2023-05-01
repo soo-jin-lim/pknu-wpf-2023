@@ -51,4 +51,4 @@
     - 영화 검색앱
 
 
-<img src="https://raw.githubusercontent.com/soo-jin-lim/pknu-wpf-2023/main/images/0001.gif" width="700" />
+<img src="https://raw.githubusercontent.com/soo-jin-lim/pknu-wpf-2023/main/Main/Image/0001.gif" width="700" />
