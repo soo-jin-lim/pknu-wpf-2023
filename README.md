@@ -47,5 +47,8 @@
 <img src="https://raw.githubusercontent.com/soo-jin-lim/pknu-wpf-2023/main/Main/Image/67.png" width="700" />
 
 ## 7일차
--
+- WPF 응용
+    - 영화 검색앱
+
+
 <img src="https://raw.githubusercontent.com/soo-jin-lim/pknu-wpf-2023/main/images/0001.gif" width="700" />
