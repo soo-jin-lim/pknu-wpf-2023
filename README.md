@@ -58,5 +58,5 @@
 - WPF 실습
 	- 애완동물 등록앱
 
-<img src="https://raw.githubusercontent.com/soo-jin-lim/pknu-wpf-2023/main/Main/Image/임수진.gif" width="700" />	
+<img src="https://raw.githubusercontent.com/soo-jin-lim/pknu-wpf-2023/main/Main/Image/수진.gif" width="700" />	
 	
